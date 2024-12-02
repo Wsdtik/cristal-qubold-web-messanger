@@ -1,3 +1,6 @@
+
+> *Warning:* This project is currently in development. Features are subject to change, and there may be bugs. And more things are not exist.
+
 # CRISTAL QUBOLD WEB MESSENGER
 
 CRISTAL QUBOLD WEB MESSENGER is a web application for messaging, built with TypeScript and RabbitMQ. The application is designed to ensure reliable and fast message delivery between users while supporting asynchronous message processing.
