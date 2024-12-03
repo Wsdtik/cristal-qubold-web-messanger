@@ -24,16 +24,7 @@ To run the project, please follow these steps:
    ```bash
    git clone https://github.com/Wsdtik/cristal-qubold-web-messanger.git
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd cristal-qubold-web-messanger
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Set up RabbitMQ.
-5. Run the project:
+2. Run the project:
    ```bash
    npm start
    ```
