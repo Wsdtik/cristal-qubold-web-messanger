@@ -15,7 +15,7 @@ CRISTAL QUBOLD WEB MESSENGER is a web application for messaging, built with Type
 - [TypeScript](https://www.typescriptlang.org/) - programming language
 - [RabbitMQ](https://www.rabbitmq.com/) - message broker
 - [Node.js](https://nodejs.org/) - server platform
-- [React](https://reactjs.org/) - library for building user interfaces
+- [Solid]([https://www.solidjs.com)] - library for building user interfaces
 
 ## Installation
 To run the project, please follow these steps:
